@@ -1,4 +1,4 @@
-# 4NN-CNN Video Extraction
+# RNN-CNN Video Extraction
 
 This repository contains a project focused on extracting features from video data using a 4-layer Convolutional Neural Network (CNN). The primary objective is to develop and implement a CNN architecture capable of efficiently processing video frames to extract meaningful features for further applications, such as action recognition, object detection, and video summarization.
 
@@ -15,8 +15,8 @@ To get started with the project, follow the steps below:
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/4NN-CNN-Video-Extraction.git
-    cd 4NN-CNN-Video-Extraction
+    git clone https://github.com/Yassa122/VideoFeatureExtractionUsingDeepLearning.git
+    cd RNN-CNN-Video-Extraction
     ```
 
 2. **Install Dependencies**

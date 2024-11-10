@@ -2,6 +2,7 @@
 
 This repository contains a project focused on extracting features from video data using a 4-layer Convolutional Neural Network (CNN). The primary objective is to develop and implement a CNN architecture capable of efficiently processing video frames to extract meaningful features for further applications, such as action recognition, object detection, and video summarization.
 
+
 ## Features
 - **4-Layer CNN Architecture**: A well-structured 4-layer CNN designed for robust feature extraction from video data.
 - **Frame Preprocessing**: Tools for preprocessing video frames, including resizing, normalization, and augmentation techniques.
